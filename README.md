@@ -13,3 +13,6 @@
 
 ### Projetos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=enzonagasava&repo=clone-card-netflix)](https://github.com/enzonagasava/clone-card-netflix)
+
+### Contatos
+[<img src='https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge' alt='linkedin' height='30'>](https://www.linkedin.com/in/enzo-nagasava/)

@@ -11,6 +11,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzonagasava&theme=dark)](https://github.com/enzonagasava/github-readme-stats)
 
+### Linguaguens utilizadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzonagasava&layout=compact)
+
 ### Projetos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=enzonagasava&repo=clone-card-netflix)](https://github.com/enzonagasava/clone-card-netflix)
 

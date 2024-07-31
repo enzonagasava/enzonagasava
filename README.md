@@ -7,5 +7,9 @@
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge)
 ![git](https://img.shields.io/badge/Git-E34F26?logo=git&logoColor=white&style=for-the-badge)
 
+### Detalhes
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzonagasava&theme=dark)](https://github.com/enzonagasava/github-readme-stats)
+
+### Projetos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=enzonagasava&repo=clone-card-netflix)](https://github.com/enzonagasava/clone-card-netflix)

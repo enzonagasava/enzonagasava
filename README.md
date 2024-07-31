@@ -1,5 +1,9 @@
 ## Olá 👋
 
+#### Sobre mim
+Desenvolvedor Front-end dedicado, estou sempre me atualizando, adoro um desafio e estou sempre aprimorando os meus conhecimentos. 
+Sempre desenvolvendo projetos sites, com diversas tecnologias.
+
 ### Habilidades 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![NodeJs](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge)

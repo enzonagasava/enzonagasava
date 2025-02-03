@@ -16,7 +16,7 @@ Sempre desenvolvendo projetos sites, com diversas tecnologias.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzonagasava&layout=compact)
 
 ### Projetos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=enzonagasava&repo=clone-card-netflix)](https://github.com/enzonagasava/clone-card-netflix)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=enzonagasava&repo=portfolio)](https://github.com/enzonagasava/portfolio)
 
 ### Contatos
 [<img src='https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge' alt='linkedin' height='30'>](https://www.linkedin.com/in/enzo-nagasava/)

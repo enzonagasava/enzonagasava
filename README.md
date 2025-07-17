@@ -1,15 +1,18 @@
-## Olá 👋
+👋 Olá, eu sou o Enzo Yuta Nagasava 
+💻 Desenvolvedor Front-End 
+Sou um desenvolvedor front-end entusiasmado e apaixonado por construir aplicações web modernas, responsivas e de alto
+desempenho. Gosto de criar interfaces escaláveis, acessíveis e de fácil manutenção, buscando sempre as melhores práticas e
+soluções eficientes junto à equipe. Tenho familiaridade com tecnologias modernas do ecossistema JavaScript, PHP e DevOps com
+Docker e Linux. 
 
-#### Sobre mim
-Desenvolvedor Front-end dedicado, estou sempre me atualizando, adoro um desafio e estou sempre aprimorando os meus conhecimentos. 
-Sempre desenvolvendo projetos sites, com diversas tecnologias.
 
-### Habilidades 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![NodeJs](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge)
-![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge)
-![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge)
-![git](https://img.shields.io/badge/Git-E34F26?logo=git&logoColor=white&style=for-the-badge)
+ 🛠️ Habilidades Técnicas 
+Linguagens & Frameworks
+JavaScript Vue.js React Node.js PHP Laravel 
+Estilo & Layout
+Sass Bootstrap BEM 
+Ferramentas & DevOps
+Git Docker Linux Gulp 
 
 
 ### Linguaguens utilizadas

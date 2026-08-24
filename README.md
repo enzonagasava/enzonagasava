@@ -1,6 +1,6 @@
 👋 Olá, eu sou o Enzo Yuta Nagasava 
 
-Sou desenvolvedor web entusiasmado e apaixonado por construir aplicações web modernas, responsivas e de alto
+Sou engenheiro de software entusiasmado por construir aplicações modernas, responsivas e de alto
 desempenho. Gosto de criar sistemas escaláveis, acessíveis e de fácil manutenção, buscando sempre as melhores práticas e
 soluções eficientes junto à equipe. Tenho familiaridade com tecnologias modernas do ecossistema JavaScript, PHP e DevOps com
 Docker e Linux. 
